@@ -17,6 +17,7 @@
 
 
 ## My Skill Set  
+<br/>
 <table><tr><td valign="top" width="33%">
 
 
@@ -64,6 +65,7 @@
 <br/>  
 
 ## Codewars Stats 
+<br/>
 
 <div align="center">
   <fragment src="https://github.r2v.ch/codewars?user=PIKIMEL&stroke=%23BB432C"></fragment>
@@ -72,6 +74,7 @@
 
 
 ## Github Stats 
+<br/>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GoItTeacher&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
