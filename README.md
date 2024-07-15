@@ -82,14 +82,23 @@
 
 <br/>  
 
-## Codewars
+## Github Stats 
 
+<table><tr><td valign="top" width="33%">
 ![Codewars](https://github.r2v.ch/codewars?user=PIKIMEL&stroke=%23BB432C)
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GoItTeacher&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+  
+</td><td valign="top" width="33%">
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GoItTeacher&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+</td>
+</tr>
+</table>
+
+
+
+
+
 
 
 ## Recent Blog Posts  
