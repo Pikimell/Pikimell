@@ -85,7 +85,7 @@
 ## Github Stats 
 
 <div align="center">
-  ![Codewars](https://github.r2v.ch/codewars?user=PIKIMEL&stroke=%23BB432C)
+  <fragment src="https://github.r2v.ch/codewars?user=PIKIMEL&stroke=%23BB432C"></fragment>
 </div>
 
 
