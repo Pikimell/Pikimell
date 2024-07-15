@@ -84,7 +84,10 @@
 
 ## Github Stats 
 
-![Codewars](https://github.r2v.ch/codewars?user=PIKIMEL&stroke=%23BB432C)
+<div align="center">
+  ![Codewars](https://github.r2v.ch/codewars?user=PIKIMEL&stroke=%23BB432C)
+</div>
+
 
 <br>
 
