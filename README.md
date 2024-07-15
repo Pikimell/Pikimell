@@ -82,7 +82,7 @@
 
 <br/>  
 
-## Github Stats 
+## Codewars Stats 
 
 <div align="center">
   <fragment src="https://github.r2v.ch/codewars?user=PIKIMEL&stroke=%23BB432C"></fragment>
@@ -90,7 +90,7 @@
 </div>
 
 
-<br>
+## Github Stats 
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GoItTeacher&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
