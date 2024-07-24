@@ -1,4 +1,4 @@
-# Hi everyone! I'm Volodymyr - FullStack Developer <img src="https://em-content.zobj.net/source/telegram/386/woman-technologist_1f469-200d-1f4bb.webp" alt="woman-technologist" width="40" height="40" />
+# Hi everyone! I'm Volodymyr - FullStack Developer <img src="https://www.emojiall.com/images/240/telegram/1f9d1-200d-1f4bb.gif" alt="woman-technologist" width="40" height="40" />
 
 ## About me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+FullStack+developer;I+build+and+maintain+web+apps;I+also+enjoy+teaching+IT;In+my+leisure+time%3A;I+engage+in+music)](https://git.io/typing-svg)
