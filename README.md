@@ -62,7 +62,7 @@
 ### <img src="https://em-content.zobj.net/source/telegram/386/mobile-phone-with-arrow_1f4f2.webp" alt="mobile-phone" width="25" height="25" /> Hit me up! [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pashchneko/)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pikimell&hide=stars,contribs&show_icons=true&theme=dracula)](https://github.com/Pikimell/github-README.md) <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2o2NHZqazNnY2I1OGhseml0ZG94ZzJpN3A5N2tvcnZqZnlla2U2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.webp" width="250" height="150" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoItTeacher&hide=stars,contribs&show_icons=true&theme=dracula)](https://github.com/GoItTeacher/github-README.md) <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2o2NHZqazNnY2I1OGhseml0ZG94ZzJpN3A5N2tvcnZqZnlla2U2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.webp" width="250" height="150" />
 
 > [!WARNING]\
 > Be careful! If you'll work with my code you'll get a kick out of it.
