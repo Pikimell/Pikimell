@@ -1,112 +1,68 @@
-### <div align="center">Hi there, I'm Volodka 👋</div>  
-  
+# Hi everyone! I'm Volodymyr - FullStack Developer <img src="https://em-content.zobj.net/source/telegram/386/woman-technologist_1f469-200d-1f4bb.webp" alt="woman-technologist" width="40" height="40" />
 
-- 🔭 I currently work as a teacher at [GoIT](https://www.linkedin.com/school/goit-start-your-career-in-it/mycompany/)  
-  
+## About me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+FullStack+developer;I+build+and+maintain+web+apps;I+also+enjoy+teaching+IT;In+my+leisure+time%3A;I+engage+in+music)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning web 3.0  
-  
+### Knowledge and Tools
+[![My Skills](https://skillicons.dev/icons?i=js,react,aws,bash,gcp,postman,vscode,git,mongodb&theme=dark&perline=10)](https://skillicons.dev)
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I have been playing music for 12 years  
-  
-
-<br/>  
+### <img src="https://www.emojiall.com/images/240/telegram/1f9d1-200d-1f4bb.gif" width="32px" height="32" /> My skills:
 
 
-## My Skill Set  
-<br/>
-<table><tr><td valign="top" width="33%">
+<table>
+<tr><td>
+
+| ⬛️ | SKILLS |
+| --- | --- |
+| `🦾` | JavaScript |
+| `🦾` | React/Redux |
+| `🦾` | HTML/CSS |
+| `🦾` | Node.js |
+| `🦾` | Express.js |
+| `🦾` | MongoDB / MySQL |
+| `🦾` | RESTful APIs |
+| `🦾` | GraphQL |
+| `🦾` | Docker |
+| `🦾` | Git/GitHub |
+
+</td><td>
+
+| ⬛️ | SKILLS |
+| --- | --- |
+| `🦾` | TypeScript |
+| `🦾` | Next.js |
+| `🦾` | Webpack |
+| `🦾` | Babel |
+| `🦾` | Testing Library |
+| `🦾` | Jest |
+| `🦾` | Cypress |
+| `🦾` | Selenium |
+| `🦾` | Agile/Scrum |
+| `🦾` | CI/CD |
+
+</td><td>
+
+| ⬛️ | SKILLS |
+| --- | --- |
+| `🦾` | C# / .Net |
+| `🦾` | Telegram Bots |
+| `🦾` | Ethereum |
+| `🦾` | UI/UX Design |
+| `🦾` | Cloud Services (AWS, Azure) |
+| `🦾` | Microservices |
+| `🦾` | DevOps |
+| `🦾` | Performance Optimization |
+| `🦾` | DAO |
+| `🦾` | Blockchain |
+
+</td></tr>
+</table>
 
 
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
+### <img src="https://em-content.zobj.net/source/telegram/386/mobile-phone-with-arrow_1f4f2.webp" alt="mobile-phone" width="25" height="25" /> Hit me up! [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pashchneko/)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pikimell&hide=stars,contribs&show_icons=true&theme=dracula)](https://github.com/Pikimell/github-README.md) <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2o2NHZqazNnY2I1OGhseml0ZG94ZzJpN3A5N2tvcnZqZnlla2U2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.webp" width="250" height="150" />
 
-### Backend  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-## Codewars Stats 
-<br/>
-
-<div align="center">
-  <fragment src="https://github.r2v.ch/codewars?user=PIKIMEL&stroke=%23BB432C"></fragment>
-  <img src="https://github.r2v.ch/codewars?user=PIKIMEL&stroke=%23BB432C" align="center" />
-</div>
-
-
-## Github Stats 
-<br/>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GoItTeacher&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-
-## Connect with me  
-<br>
-<br>
-<div align="center">
-<a href="https://linkedin.com/in/pashchneko" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/pashchenko.v.r" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Pikimell" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-<br/>
-
-## Recent Blog Posts  
-  
-
-<div align="center">
-            <a href="https://paypal.me/PikimelPoshta@gmail.com" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-
-
+> [!WARNING]\
+> Be careful! If you'll work with my code you'll get a kick out of it.
