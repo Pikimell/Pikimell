@@ -12,50 +12,45 @@
 <table>
 <tr><td>
 
-| ⬛️ | SKILLS |
+| ⬛️ | FRONTEND |
 | --- | --- |
-| `🦾` | JavaScript |
-| `🦾` | React/Redux |
-| `🦾` | HTML/CSS |
-| `🦾` | Node.js |
-| `🦾` | Express.js |
-| `🦾` | MongoDB / MySQL |
-| `🦾` | RESTful APIs |
-| `🦾` | GraphQL |
-| `🦾` | Docker |
-| `🦾` | Git/GitHub |
+| `🦾` | JavaScript (ES6+)       |
+| `🦾` | React                   |
+| `🦾` | Redux                   |
+| `🦾` | HTML5 / CSS3 / SASS     |
+| `🦾` | Responsive UI / UX      |
+| `🦾` | Git                     |
+| `🦾` | GitHub / GitFlow        |
 
 </td><td>
 
-| ⬛️ | SKILLS |
+| ⬛️ | BACKEND |
 | --- | --- |
-| `🦾` | TypeScript |
-| `🦾` | Next.js |
-| `🦾` | Webpack |
-| `🦾` | Babel |
-| `🦾` | Testing Library |
-| `🦾` | Jest |
-| `🦾` | Cypress |
-| `🦾` | Selenium |
-| `🦾` | Agile/Scrum |
-| `🦾` | CI/CD |
+| `🦾` | Node.js                 |
+| `🦾` | Express.js              |
+| `🦾` | RESTful API Design      |
+| `🦾` | MongoDB / Mongoose      |
+| `🦾` | MySQL / Sequelize       |
+| `🦾` | WebSocket / Real-time   |
+| `🦾` | Telegram Bots (Node.js) |
 
-</td><td>
+</td>
 
-| ⬛️ | SKILLS |
+<td>
+
+| ⬛️ | DEVOPS & CLOUD |
 | --- | --- |
-| `🦾` | C# / .Net |
-| `🦾` | Telegram Bots |
-| `🦾` | Ethereum |
-| `🦾` | UI/UX Design |
-| `🦾` | Cloud Services (AWS, Azure) |
-| `🦾` | Microservices |
-| `🦾` | DevOps |
-| `🦾` | Performance Optimization |
-| `🦾` | DAO |
-| `🦾` | Blockchain |
+| `🦾` | AWS (Lambda, S3, EC2, API Gateway) |
+| `🦾` | Serverless Architecture            |
+| `🦾` | CI/CD Pipelines                    |
+| `🦾` | Docker / Docker Compose            |
+| `🦾` | Microservices & API Gateways       |
+| `🦾` | Infrastructure as Code (IaC)       |
+| `🦾` | Performance Optimization           |
 
-</td></tr>
+</td>
+
+</tr>
 </table>
 
 
