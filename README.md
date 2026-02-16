@@ -1,63 +1,68 @@
-# Hi everyone! I'm Volodymyr - FullStack Developer <img src="https://www.emojiall.com/images/240/telegram/1f9d1-200d-1f4bb.gif" alt="technologist" width="40" height="40" />
 
-## About me
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+FullStack+developer;I+build+and+maintain+web+apps;I+also+enjoy+teaching+IT;In+my+leisure+time%3A;I+engage+in+music)](https://git.io/typing-svg)
+# Hi, I'm Volodymyr — Fullstack Developer <img src="https://www.emojiall.com/images/240/telegram/1f9d1-200d-1f4bb.gif" alt="technologist" width="40" height="40" />
+---
 
-### Knowledge and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,react,aws,bash,gcp,postman,vscode,git,mongodb&theme=dark&perline=10)](https://skillicons.dev)
+## 💻 TypeScript | React | Next.js | Node.js | AWS
 
-### <img src="https://www.emojiall.com/images/240/telegram/1f9d1-200d-1f4bb.gif" width="32px" height="32" /> My skills:
+Product-oriented Fullstack Developer focused on building scalable SaaS platforms, automation systems, and API-driven applications.
 
+I specialize in designing backend architectures, implementing OAuth-based integrations, and developing structured, maintainable frontend systems. My work combines technical clarity with business logic and monetization strategy.
 
-<table>
-<tr><td>
+Experience includes:
 
-| ⬛️ | FRONTEND |
-| --- | --- |
-| `🦾` | JavaScript (ES6+)       |
-| `🦾` | React                   |
-| `🦾` | Redux                   |
-| `🦾` | HTML5 / CSS3 / SASS     |
-| `🦾` | Responsive UI / UX      |
-| `🦾` | Git                     |
-| `🦾` | GitHub / GitFlow        |
+- Next.js & React frontend architecture  
+- Node.js + Express backend development  
+- MongoDB & Mongoose schema design  
+- REST APIs & third-party integrations  
+- Serverless deployment on AWS  
+- iOS development with Swift  
 
-</td><td>
+I focus on long-term scalability, modular structure, and production-ready solutions.
 
-| ⬛️ | BACKEND |
-| --- | --- |
-| `🦾` | Node.js                 |
-| `🦾` | Express.js              |
-| `🦾` | RESTful API Design      |
-| `🦾` | MongoDB / Mongoose      |
-| `🦾` | MySQL / Sequelize       |
-| `🦾` | WebSocket / Real-time   |
-| `🦾` | Telegram Bots (Node.js) |
+---
 
-</td>
+## 🚀 What I Build
 
-<td>
+- SaaS platforms with subscription logic  
+- OAuth integrations (Spotify, Apple Music, Telegram APIs)  
+- Scalable REST APIs with MongoDB  
+- Serverless backend systems (AWS Lambda)  
+- Automation tools & Telegram bots  
+- Cross-platform product architectures  
 
-| ⬛️ | DEVOPS & CLOUD |
-| --- | --- |
-| `🦾` | AWS (Lambda, S3, EC2, API Gateway) |
-| `🦾` | Serverless Architecture            |
-| `🦾` | CI/CD Pipelines                    |
-| `🦾` | Docker / Docker Compose            |
-| `🦾` | Microservices & API Gateways       |
-| `🦾` | Infrastructure as Code (IaC)       |
-| `🦾` | Performance Optimization           |
+---
 
-</td>
+## 🧰 Tech Stack
 
-</tr>
-</table>
+**Core:**  
+TypeScript | JavaScript | React | Next.js | Node.js | Express  
 
+**Backend & Infrastructure:**  
+MongoDB | Mongoose | REST API | OAuth | AWS | Serverless  
 
-### <img src="https://em-content.zobj.net/source/telegram/386/mobile-phone-with-arrow_1f4f2.webp" alt="mobile-phone" width="25" height="25" /> Hit me up! [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pashchneko/)
+**Mobile:**  
+Swift | iOS  
 
+**Tools:**  
+Git | CI/CD | Postman  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoItTeacher&hide=stars,contribs&show_icons=true&theme=dracula)](https://github.com/GoItTeacher/github-README.md) <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2o2NHZqazNnY2I1OGhseml0ZG94ZzJpN3A5N2tvcnZqZnlla2U2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.webp" width="250" height="150" />
+## 🧠 Core Strengths
 
-> [!WARNING]\
-> Be careful! If you'll work with my code you'll get a kick out of it.
+- Scalable backend architecture design  
+- API integrations & OAuth flows  
+- SaaS monetization logic  
+- Structured technical planning & documentation  
+- Clean, modular system organization  
+- Business-oriented technical decision making  
+
+---
+
+## 🗣️ Languages
+
+![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)  ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+
+---
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/pashchenko-v-r) |  [Telegram](https://t.me/pikimel) |  [Email](mailto:volodkaposhta@gmail.com)
