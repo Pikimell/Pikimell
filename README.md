@@ -1,7 +1,5 @@
 
 # Hi, I'm Volodymyr — Fullstack Developer <img src="https://www.emojiall.com/images/240/telegram/1f9d1-200d-1f4bb.gif" alt="technologist" width="40" height="40" />
----
-
 ## 💻 TypeScript | React | Next.js | Node.js | AWS
 
 Product-oriented Fullstack Developer focused on building scalable SaaS platforms, automation systems, and API-driven applications.
