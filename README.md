@@ -1,66 +1,32 @@
+# Volodymyr Pashchenko
 
-# Hi, I'm Volodymyr — Fullstack Developer <img src="https://www.emojiall.com/images/240/telegram/1f9d1-200d-1f4bb.gif" alt="technologist" width="40" height="40" />
-## 💻 TypeScript | React | Next.js | Node.js | AWS
+### Full-stack Developer · TypeScript · React · Next.js · Node.js · AWS
 
-Product-oriented Fullstack Developer focused on building scalable SaaS platforms, automation systems, and API-driven applications.
+I build web applications, API integrations, and developer tools—from interactive interfaces to backend services.
 
-I specialize in designing backend architectures, implementing OAuth-based integrations, and developing structured, maintainable frontend systems. My work combines technical clarity with business logic and monetization strategy.
+**Open to full-stack, React / Next.js, and Node.js backend roles.**
 
-Experience includes:
-
-- Next.js & React frontend architecture  
-- Node.js + Express backend development  
-- MongoDB & Mongoose schema design  
-- REST APIs & third-party integrations  
-- Serverless deployment on AWS  
-- iOS development with Swift  
-
-I focus on long-term scalability, modular structure, and production-ready solutions.
+[LinkedIn](https://www.linkedin.com/in/pashchenko-v-r) · [Email](mailto:volodkaposhta@gmail.com) · [Telegram](https://t.me/pikimel)
 
 ---
 
-## 🚀 What I Build
+## Selected projects
 
-- SaaS platforms with subscription logic  
-- OAuth integrations (Spotify, Apple Music, Telegram APIs)  
-- Scalable REST APIs with MongoDB  
-- Serverless backend systems (AWS Lambda)  
-- Automation tools & Telegram bots  
-- Cross-platform product architectures  
+| Project | What it does | Technical focus |
+| :--- | :--- | :--- |
+| [Google Play Console Connector](https://github.com/Pikimell/google-play-console-connector) | A dashboard for Google Play releases, store listings, localization, subscriptions, and reviews. | Next.js · React · TypeScript · Google Play Developer API |
+| [Wave Studio](https://github.com/Pikimell/wave-studio) | A visual editor for layered wave backgrounds, with PNG/SVG export and a generation API. Includes an App Store screenshot editor. | Next.js · React · TypeScript · SVG · Browser storage |
+| [AWS Node Express Template](https://github.com/Pikimell/aws-node-express-template) | An API starter with authentication, refresh-token sessions, validation, and OpenAPI documentation, configured for local use and AWS Lambda. | Node.js · Express · TypeScript · MongoDB · Serverless Framework |
 
----
+## Technical toolkit
 
-## 🧰 Tech Stack
+- **Frontend:** React, Next.js, TypeScript, JavaScript
+- **Backend:** Node.js, Express, REST APIs, MongoDB, Mongoose
+- **Integrations & infrastructure:** third-party APIs, AWS Lambda, Serverless Framework
+- **Also:** Swift and iOS development
 
-**Core:**  
-TypeScript | JavaScript | React | Next.js | Node.js | Express  
+## How I approach projects
 
-**Backend & Infrastructure:**  
-MongoDB | Mongoose | REST API | OAuth | AWS | Serverless  
+I work across the interface, API, and data model. I aim to keep domain logic separate from UI components, make integration limits explicit, and document configuration and setup so another developer can work with the project.
 
-**Mobile:**  
-Swift | iOS  
-
-**Tools:**  
-Git | CI/CD | Postman  
-
-## 🧠 Core Strengths
-
-- Scalable backend architecture design  
-- API integrations & OAuth flows  
-- SaaS monetization logic  
-- Structured technical planning & documentation  
-- Clean, modular system organization  
-- Business-oriented technical decision making  
-
----
-
-## 🗣️ Languages
-
-![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)  ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-
----
-
-## 📫 Contact
-
-[LinkedIn](https://www.linkedin.com/in/pashchenko-v-r) |  [Telegram](https://t.me/pikimel) |  [Email](mailto:volodkaposhta@gmail.com)
+For examples, explore Wave Studio's feature-based structure, the Play dashboard's documented API constraints, and the Express template's authentication routes and OpenAPI documentation.
