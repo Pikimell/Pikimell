@@ -14,6 +14,7 @@ I build web applications, API integrations, and developer tools—from interacti
 
 | Project | What it does | Technical focus |
 | :--- | :--- | :--- |
+| [English for Everyone (FluentPath)](https://english-for-everyone.vercel.app) | Turns textbooks and PDFs into learning routes with notes, annotations, and progress. Private source. | Next.js · TypeScript · Supabase · Zustand · PDF.js |
 | [Google Play Console Connector](https://github.com/Pikimell/google-play-console-connector) | A dashboard for Google Play releases, store listings, localization, subscriptions, and reviews. | Next.js · React · TypeScript · Google Play Developer API |
 | [Wave Studio](https://github.com/Pikimell/wave-studio) | A visual editor for layered wave backgrounds, with PNG/SVG export and a generation API. Includes an App Store screenshot editor. | Next.js · React · TypeScript · SVG · Browser storage |
 | [AWS Node Express Template](https://github.com/Pikimell/aws-node-express-template) | An API starter with authentication, refresh-token sessions, validation, and OpenAPI documentation, configured for local use and AWS Lambda. | Node.js · Express · TypeScript · MongoDB · Serverless Framework |
