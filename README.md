@@ -2,15 +2,17 @@
 
 ### Full-stack Developer · TypeScript · React · Next.js · Node.js · AWS
 
-I build web applications, API integrations, and developer tools—from interactive interfaces to backend services.
+I build production-minded web applications, API integrations, and developer tools across the interface, API, and data layers.
 
-**Open to full-stack, React / Next.js, and Node.js backend roles.**
+**Open to remote full-stack, React / Next.js, and Node.js backend roles.**
 
 [LinkedIn](https://www.linkedin.com/in/pashchenko-v-r) · [Email](mailto:volodkaposhta@gmail.com) · [Telegram](https://t.me/pikimel)
 
 ---
 
 ## Selected projects
+
+These public repositories show the kind of work I want to do professionally: product interfaces, backend APIs, integrations, and developer tools.
 
 | Project | What it does | Technical focus |
 | :--- | :--- | :--- |
@@ -26,8 +28,19 @@ I build web applications, API integrations, and developer tools—from interacti
 - **Integrations & infrastructure:** third-party APIs, AWS Lambda, Serverless Framework
 - **Also:** Swift and iOS development
 
+## What I bring
+
+- End-to-end ownership from product workflow and UI to API contracts and data models.
+- Practical experience integrating external platforms, including Google Play and AWS.
+- Clear documentation of setup, constraints, trade-offs, and deployment boundaries.
+- Comfortable working independently with clients and collaborating with product and engineering teams.
+
 ## How I approach projects
 
 I work across the interface, API, and data model. I aim to keep domain logic separate from UI components, make integration limits explicit, and document configuration and setup so another developer can work with the project.
 
 For examples, explore Wave Studio's feature-based structure, the Play dashboard's documented API constraints, and the Express template's authentication routes and OpenAPI documentation.
+
+## Availability
+
+Open to remote opportunities with teams building SaaS products, developer tools, integrations, and data-driven web applications.
